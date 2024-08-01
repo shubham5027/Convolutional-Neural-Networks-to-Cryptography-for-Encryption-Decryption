@@ -1,4 +1,3 @@
-Based on the content from the uploaded file, here's a structured and comprehensive README for the project:
 
 ---
 
@@ -18,8 +17,7 @@ To run this project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/neural-cryptography.git
-    cd neural-cryptography
+    git clone https://github.com/shubham5027/Convolutional-Neural-Networks-to-Cryptography-for-Encryption-Decryption/tree/main.git
     ```
 
 2. Install the required libraries:
